@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Abdessamad151
-- 👀 I’m interested in IT
-- 🌱 I’m currently learning IT support by GOOGLE
+- 👀 I’m interested in IT, coding, programming & cyber security
+- 🌱 I’m currently studying Software Engineering  at FST Errachidia
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
